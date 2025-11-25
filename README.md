@@ -8,4 +8,4 @@
 منو بساز! منو کنترل کن! منو آپگريد کن!
 
 
-![my image](Images/RoboFun.png)
+<img src="images/circuit.jpg" width="400">
