@@ -7,5 +7,6 @@
 
 منو بساز! منو کنترل کن! منو آپگريد کن!
 
-
-<img src="Images/RoboFun.png" width="400">
+<p align="center">
+  <img src="Images/RoboFun.png" width="400">
+</p>
