@@ -1,11 +1,10 @@
-سلام!
-به دوره‌ی "ربات‌ سازی حرفه‌ای برای انسان‌های معمولی!" خوش اومدید.
+Professional Robotics for Ordinary People!
 
-اینجا جایی که با پیچ‌گوشتی و لبخند، ربات می‌سازیم!
+This is where we build robots with a screwdriver and a smile!
 
-اينجا قراره با هم ربات‌هايي بسازيم که نه فقط حرکت کنن… بلکه يه‌جورايي قيافه‌شون داد بزنه:
+Here we are going to build robots together that not only move... but also have a look that screams:
 
-منو بساز! منو کنترل کن! منو آپگريد کن!
-
-
-![my image](Images/RoboFun.png)
+Build me! Control me! Upgrade me!
+<p align="center">
+  <img src="Images/RoboFun.png" width="400">
+</p>
